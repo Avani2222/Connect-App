@@ -1,5 +1,5 @@
 ## Name - Avani Gupta
-## University - Indian Institute of Technology, Hyderabad
+## University - IIT Hyderabad
 ## Department - Mechanical and Aerospace Engineering
 
 # Getting Started with Create React App
